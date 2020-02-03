@@ -1,0 +1,124 @@
+{
+    "fruits" : [
+        {
+            "id": "1",
+            "name" : "bananas",
+            "sold": "401",
+            "salesDateId" : "1"
+        },
+        {
+            "id": "2",
+            "name" : "strawberries",
+            "sold" : "58",
+            "salesDateId" : "1"          
+        },
+        {
+            "id": "3",
+            "name" : "apples",
+            "sold" : "290",
+            "salesDateId" : "1"
+        },
+        {
+            "id": "4",
+            "name" : "oranges",
+            "sold" : "191",
+            "salesDateId" : "1"
+        },
+        {
+            "id": "5",
+            "name" : "bananas",
+            "sold": "354",
+            "salesDateId" : "2"
+        },
+        {
+            "id": "6",
+            "name" : "strawberries",
+            "sold" : "98",
+            "salesDateId" : "2"
+        },
+        {
+            "id": "7",
+            "name" : "apples",
+            "sold" : "132",
+            "salesDateId" : "2"
+        },
+        {
+            "id": "8",
+            "name" : "oranges",
+            "sold" : "123",
+            "salesDateId" : "2"
+        },
+        {
+            "id": "9",
+            "name" : "bananas",
+            "sold": "512",
+            "salesDateId" : "3"
+        },
+        {
+            "id": "10",
+            "name" : "strawberries",
+            "sold" : "120",
+            "salesDateId" : "3"
+        },
+        {
+            "id": "11",
+            "name" : "apples",
+            "sold" : "321",
+            "salesDateId" : "3"
+        },
+        {
+            "id": "12",
+            "name" : "oranges",
+            "sold" : "150",
+            "salesDateId" : "3"
+        },
+        {
+            "id": "13",
+            "name" : "bananas",
+            "sold": "287",
+            "salesDateId" : "4"
+        },
+        {
+            "id": "14",
+            "name" : "strawberries",
+            "sold" : "75",
+            "salesDateId" : "4"
+        },
+        {
+            "id": "15",
+            "name" : "apples",
+            "sold" : "214",
+            "salesDateId" : "4"
+        },
+        {
+            "id": "16",
+            "name" : "oranges",
+            "sold" : "187",
+            "salesDateId" : "4"
+        }
+    ],
+    "salesDates" : [
+        {
+            "id": "1",
+            "date": "01/07/2019"
+        },
+        {
+            "id": "2",
+            "date": "02/07/2019"
+        },
+        {
+            "id": "3",
+            "date": "03/07/2019"
+        },
+        {
+            "id": "4",
+            "date": "04/07/2019"
+        }
+    ],
+    "fruitReport" : [
+         {"id": "1", "date": "01/07/2019", "bananas": "401", "strawberries": "58",  "apples":"290", "oranges": "191"},
+         {"id": "2", "date": "02/07/2019", "bananas": "354", "strawberries": "98",  "apples":"132", "oranges": "123"},
+         {"id": "3", "date": "03/07/2019", "bananas": "512", "strawberries": "120", "apples":"321", "oranges": "159"},
+         {"id": "4", "date": "04/07/2019", "bananas": "287", "strawberries": "75",  "apples":"125", "oranges": "187"}
+    ]
+}
