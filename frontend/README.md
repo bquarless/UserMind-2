@@ -1,12 +1,12 @@
-To run Backend:
-    cd userMind/backend
-    npm install
-    npm run json:Server
+To run Backend: <br>
+    cd userMind/backend <br>
+    npm install <br>
+    npm run json:Server <br>
 
-To run Frontend:
-    cd userMind/frontend/salesreport
-    npm install
-    npm run start
+To run Frontend: <br>
+    cd userMind/frontend/salesreport <br>
+    npm install <br>
+    npm run start <br>
 
 1. To create a chart select one or more dates from the multi
 select listbox of dates.
